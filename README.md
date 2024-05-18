@@ -20,7 +20,7 @@ I am interested in <b>cybersecurity</b>, vulnerabilities and methods to mitigate
 
 ### Contacts
 <a href='https://t.me/il3241ov'>
-    <img src=https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src=https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ## Languages and Tools

@@ -19,9 +19,10 @@ I am interested in <b>cybersecurity</b>, vulnerabilities and methods to mitigate
 </p>
 
 ### Contacts
-<a href='https://t.me/il3241ov'>
-    <img src=https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+
+<b>Telegram:</b> il3241ya
+
+<b>Email:</b> il3241ya@yandex.ru
 
 ## Languages and Tools
 

@@ -1,16 +1,40 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Профиль пользователя username</title>
+</head>
+<body>
+    <h1>Профиль пользователя username</h1>
 
-<!--
-**il3241ya/il3241ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <p>Привет! Меня зовут <strong>[ваше имя]</strong>, и я разработчик программного обеспечения.</p>
 
-Here are some ideas to get you started:
+    <h2>О себе</h2>
+    <p>Здесь вы можете рассказать о себе, своем опыте работы, интересах и т. д.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <h2>Мои навыки</h2>
+    <ul>
+        <li>Языки программирования: Python, JavaScript, Java</li>
+        <li>Фреймворки: Django, React, Spring</li>
+        <li>Базы данных: PostgreSQL, MongoDB</li>
+        <!-- и многое другое... -->
+    </ul>
+
+    <h2>Мои проекты</h2>
+    <ol>
+        <li><a href="#">Название проекта 1</a></li>
+        <li><a href="#">Название проекта 2</a></li>
+        <!-- и т. д. -->
+    </ol>
+
+    <h2>Связаться со мной</h2>
+    <ul>
+        <li>Email: <a href="mailto:ваш_email@example.com">ваш_email@example.com</a></li>
+        <li>LinkedIn: <a href="#">ваш профиль LinkedIn</a></li>
+        <li>Twitter: <a href="#">@ваш_твиттер</a></li>
+    </ul>
+
+    <p>Не стесняйтесь связаться со мной, если у вас есть какие-либо вопросы или предложения!</p>
+</body>
+</html>

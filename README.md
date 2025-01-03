@@ -18,12 +18,6 @@ I am a second-year student pursuing a degree in Information Security at the <b>H
 I am interested in <b>cybersecurity</b>, vulnerabilities and methods to mitigate them. I practice by playing <b>CTF</b> (Capture The Flag) games and using the Try Hack Me platform and others. Additionally, I am participating in a project CAVISE focused on developing an environment for training autonomous vehicles. Recently, under my leadership, our project made a breakthrough by implementing the most realistic model of communication between vehicles.
 </p>
 
-### Contacts
-
-<b>Telegram:</b> il3241ov
-
-<b>Email:</b> il3241ya@yandex.ru
-
 ## Languages and Tools
 
 ### Skils:
